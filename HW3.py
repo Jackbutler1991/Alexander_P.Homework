@@ -14,4 +14,3 @@ print(type(lst))
 print(type(d))
 print(type(bool))
 print(type(set_1))
-амчмdfgfg
